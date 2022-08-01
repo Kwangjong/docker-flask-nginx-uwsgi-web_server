@@ -1,0 +1,7 @@
+flask==2.1.*
+click==8.0.*
+itsdangerous==2.1.*
+jinja2==3.0.*
+markupsafe==2.1.*
+werkzeug==2.2.*
+uwsgi==2.0.*
